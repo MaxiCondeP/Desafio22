@@ -1,0 +1,9 @@
+{
+  "$schema": "https://deno.land/x/denon@2.5.0/schema.json",
+  "scripts": {
+    "start": {
+      "cmd": "deno run --allow-read --allow-env --allow-net desafio21.tsx",
+      "desc": "run my desafio21.tsx file"
+    }
+  }
+}
